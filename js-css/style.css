@@ -1,0 +1,132 @@
+body {
+	background-color: #F0ECE0;
+	margin: 0px 0px 0px 0px;
+	padding: 0px;
+}
+
+a {
+	text-decoration: none;
+	color: #C54C1A;
+}
+
+a:hover {
+	text-decoration: underline;
+	color: #C54C1A;
+}
+
+.topHeight {
+	margin-top: 12px;
+}
+
+.pageWidth {
+	width: 752px;
+}
+
+
+/*
+********************************************
+	Background colors
+********************************************	
+*/
+
+.whiteBG {
+	background-color: #FFFFFF;
+}
+
+.khakiGreenBG {
+	background-color: #BBBA8F;
+}
+
+.lightBrownBG {
+	background-color: #DADCC4;
+}
+
+.grayBG {
+	background-color: #BDBFA7;
+}
+
+.diagonal1BG {
+	background-image: url(../shared/diagonal_bg1.gif);
+	background-color: #F0ECE0;
+	background-repeat: repeat-x;
+	height: 5px;
+}
+
+.diagonal2BG {
+	background-image: url(../shared/diagonal_bg1.gif);
+	background-color: #F0ECE0;
+	background-repeat: repeat-y;
+	width: 6px;
+}
+
+.maindiagonal2BG {
+	background-image: url(../main/diagonal_pic4.gif);
+	background-repeat: repeat-y;
+	width: 16px;
+}
+
+
+/*
+********************************************
+	Background colors
+********************************************	
+*/
+
+.loginBox{
+	width: 130px;
+	font-family: Arial, Verdana, Helvetica, sans-serif; 
+	font-size: 8pt;
+	font-style: normal; 
+	margin: 0;
+	padding: 0;
+	vertical-align: middle;
+	color: #000000;
+}
+
+
+/*
+********************************************
+	Pages
+********************************************	
+*/
+
+.contentWidth {
+	width: 479px;
+}
+
+.contentTextWidth {
+	width: 435px;
+}
+
+.content {
+	font-size: 11px;
+	font-family: verdana, arial, helvetica;
+	line-height: 16px;
+	color: #000000;
+}
+
+.header {
+	font-size: 14px;
+	font-family: verdana, arial, helvetica;
+	font-weight: bold;
+	color: #C54C1A;
+}
+
+
+/*
+********************************************
+	Spacers
+********************************************	
+*/
+
+.hSpace30 {
+	margin-left: 30px;
+}
+
+.vSpace7 {
+	margin-top: 7px;
+}
+
+.vSpace20 {
+	margin-top: 20px;
+}
